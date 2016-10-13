@@ -1,7 +1,8 @@
 ## css No. x
-- shortcuts: 
+
+
 ### goal:
-ls
+
 ### source:
 
 
