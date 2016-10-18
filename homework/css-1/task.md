@@ -1,10 +1,13 @@
 ## css No. x
 - shortcuts: 
-### goal:
-ls
-### source:
 
 
+## key points
+- transition
+- transform
+- transform-style
+- rotatey ,x,z
+- box-shadow;
 ### stack
 
 ### time estimate
